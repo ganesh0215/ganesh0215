@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Analyst
 - 📫 How to reach me
 -  [LinkedIn](www.linkedin.com/in/ganeshkumar215)
+-  [Mail](kommuganeshkumar6@gmail.com)
   
 
 <!---
